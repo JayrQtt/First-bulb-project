@@ -1,0 +1,32 @@
+body{
+    background: black;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+#image{
+    width: 300px;
+    display: flex;
+    height: 300px;
+}
+
+
+button{
+    margin-top: 60px;
+    width: 120px;
+    height: 30px;
+    font-size: 20px;
+    color: black;
+    
+}
+
+.button-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
